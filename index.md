@@ -5,11 +5,17 @@
 
 ## Current Topics Covered
 
+- Introduction
 - Growth Mindset
 - Markdown
 - Git Hub Pages
 - Useful Links
 
+## Introduction
+
+Welcome to my Reading Notes page. I am a Software Engineer who is blowing the dust off her coding skills. This has been a blast and I expect it will only get more fun. 
+
+Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young). 
 
 ## What is Growth Mindset?
 
