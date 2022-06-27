@@ -1,12 +1,29 @@
-<!-- ## Sue Young's Reading Notes -->
+# Sue Young's Reading Notes 
 
 <!-- One gigantic @ss pic that may or may not be legal? But hey, look at this Markdown comment --> 
 ![Cool Pic](https://techagainsttrafficking.org/wp-content/uploads/2019/01/Digital-Earth-1200x675.jpg)
 
-### What is Markdown?
+## Current Topics Covered
+
+- Growth Mindset
+- Markdown
+- Git Hub Pages
+- Useful Links
+
+
+## What is Growth Mindset?
+
+> A growth mindset is one where basic abilities can be developed through effort. Your skills can grow and change! You are not static and your knowledge can increase. 
+
+### Three Ways to Encourage a Growth Mindset
+1. Embrace challenges.
+2. Reframe failure as a step to learning.
+3. Positive self-talk. You can do it!
+
+
+## What is Markdown?
 
 > Markdown is actually a simple Markup syntax
-----
 
 Confusing, right? Why John Gruber and Aaron Swartz, the creators of Markdown, decided to go with Markdown instead of MarkupLite, is unfortunate. 
 
@@ -63,13 +80,16 @@ Links and Images too. The fun stuff:
 
 One last note, Markdown is converted into HTML by a static site generator. So all those lovely tags are still there, they are just created for you. Woo hoo!
 
-### GitHub Pages
+
+## GitHub Pages
 
 GitHub pages allows you to create a website using Markdown, HTML, CSS, and JS. They also host it for you. What a deal! They use the popular static site generator, Jekyll. 
 
 GitHub provides a nice set of documentation on how you can [Get Started with Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
 
-### Useful Links for Sue
+
+
+## Useful Links for Sue
 
 [GitHub Editor for this Page](https://github.com/Sue-Young/reading-notes/edit/gh-pages/index.md)
 
