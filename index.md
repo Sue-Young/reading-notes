@@ -5,11 +5,14 @@
 
 ### What is Markdown?
 
-Markdown is actually a simple Markup syntax. Confusing, right? Why John Gruber and Aaron Swartz, the creators of Markdown, couldn’t have named it MarkupLite is unfortunate. 
+> Markdown is actually a simple Markup syntax
+----
+
+Confusing, right? Why John Gruber and Aaron Swartz, the creators of Markdown, decided to go with Markdown instead of MarkupLite, is unfortunate. 
 
 Regardless of the misnomer, Markdown serves an important role in the Markup world. It is a text Markup that is designed for readability. Unlike HTML, Markdown has no tags. You can read and write Markdown with simple plain text annotations. This is useful in technical documentation and has been adopted by open source heavy hitters like Git/GitHub. 	
 
-GitHub has a wonderful [Markdown Syntax Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links). 
+GitHub has a wonderful [Markdown Syntax Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
 
 To decide for yourself if Markdown is more human readable than HTML tag syntax, here is a sample of just a few things you can do with Markdown.  
 
@@ -27,9 +30,10 @@ Alice in :chains:
 
 Markdown is useful for Styling Text:
 
-**Bold**  
-_Italic_  
-***Bold and italic***
+1. **Two asterisks make it Bold**  
+2. _One underscore is Italic_  
+3. ***Three asterisks are both Bold and Italic***
+
 
 
 To get Headers 1-6 use Hash Signs:
