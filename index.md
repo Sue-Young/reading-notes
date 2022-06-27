@@ -1,25 +1,39 @@
 ## Welcome to Sue Young's Reading Notes Page
-[Cool Pic](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimageio.forbes.com%2Fspecials-images%2Fimageserve%2F61d52d4e3a76ed81ac034ea8%2FThe-10-Tech-Trends-That-Will-Transform-Our-World%2F960x0.jpg%3Fformat%3Djpg%26width%3D960&imgrefurl=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fbernardmarr%2F2022%2F01%2F05%2Fthe-10-tech-trends-that-will-transform-our-world%2F&tbnid=o6R5nn9Xca_VwM&vet=12ahUKEwiJ5bbtvc34AhWjCJ0JHcSLARYQMygAegUIARDIAQ..i&docid=Nd0OvPBQEXXbRM&w=958&h=539&q=tech%20images&ved=2ahUKEwiJ5bbtvc34AhWjCJ0JHcSLARYQMygAegUIARDIAQ)
+
+<!-- One gigantic @ss pic that may or may not be legal? But hey, look at this Markdown comment --> 
+![Cool Pic](https://techagainsttrafficking.org/wp-content/uploads/2019/01/Digital-Earth-1200x675.jpg)
 
 ### What is Markdown?
 
-Markdown is actually a simple Markup syntax. Confusing, right? Why John Gruber and Aaron Swartz, the creators of Markdown, couldn’t have named it MarkupLite is confusing to me. 
+Markdown is actually a simple Markup syntax. Confusing, right? Why John Gruber and Aaron Swartz, the creators of Markdown, couldn’t have named it MarkupLite is unfortunate. 
 
 Regardless of the misnomer, Markdown serves an important role in the Markup world. It is a text Markup that is designed for readability. Unlike HTML, Markdown has no tags. You can read and write Markdown with simple plain text annotations. This is useful in technical documentation and has been adopted by open source heavy hitters like Git/GitHub. 	
 
-GitHub has a wonderful [Markdown Syntax Guide]{https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links}. 
+GitHub has a wonderful [Markdown Syntax Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links). 
 
-But for just a taste of what Markdown looks like, take a gander at this sample. 
+To decide for yourself if Markdown is more human readable than HTML tag syntax, here is a sample of just a few things you can do with Markdown.  
 
 ```markdown
 
-Styling Text
+The first and most important devleoper Markdown is the comment.  
+
+<!-- Good for commenting your Markdown AND blocking out Markdown that you don't want rendered. -->
+
+
+Perhaps the least important developer Markdown is the emoji. But let's live a little. 
+
+Alice in :chains:
+
+
+Markdown is useful for Styling Text:
+
 **Bold**  
 _Italic_  
 ***Bold and italic***
 
 
-Headers 1-6 are designated with 1-6 hash signs
+To get Headers 1-6 use Hash Signs:
+
 # Header 1
 ## Header 2
 ### Header 3
@@ -27,63 +41,41 @@ Headers 1-6 are designated with 1-6 hash signs
 ##### Header 5
 ###### Header 6
 
-Lists
+
+You can easily produce Ordered and Unordered Lists:
+
 - Unordered list element 1
 - Unordered list element 2
 
 1. Ordered list element 1
 2. Ordered list element 2
 
-Links and Images (The fun stuff!)
-[Link](url) and ![Image](src)
-```
 
-
-One last note, Markdown is converted into HTML by a pre-processor before being rendered. So all those lovely tags are still there, they are just created for you. 
-
-
-
-
-
-
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Sue-Young/reading-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Links and Images too. The fun stuff:
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+One last note, Markdown is converted into HTML by a static site generator. So all those lovely tags are still there, they are just created for you. Woo hoo!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sue-Young/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### GitHub Pages
 
-### Support or Contact
+GitHub pages allows you to create a website using Markdown, HTML, CSS, and JS. They also host it for you. What a deal! They use the popular static site generator, Jekyll. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+GitHub provides a nice set of documentation on how you can [Get Started with Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site).
+
+### Useful Links for Sue
+
+[GitHub Editor for this Page](https://github.com/Sue-Young/reading-notes/edit/gh-pages/index.md)
+
+[GitHub CLI](https://cli.github.com/)
+
+[Emoji Markdown Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
+
+[Repository Settings](https://github.com/Sue-Young/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+
+
+
