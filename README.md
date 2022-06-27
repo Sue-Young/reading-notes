@@ -1,2 +1,2 @@
-# reading-notes
-Notes for Code Fellows 102
+# Reading Notes
+Code Fellows 102
