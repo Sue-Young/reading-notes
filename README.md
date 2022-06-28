@@ -1,11 +1,11 @@
-# Welcome to My Reading Notes 
+# Reading Notes 
 
 <!-- One gigantic @ss pic that may or may not be legal? But hey, look at this Markdown comment --> 
 ![Cool Pic](https://techagainsttrafficking.org/wp-content/uploads/2019/01/Digital-Earth-1200x675.jpg)
 
 ## Introduction
 
-Welcome to my Reading Notes page. I am a Software Engineer who is blowing the dust off her coding skills. This has been a blast and I expect it will only get more fun. 
+Welcome to my Reading Notes page! My name is Sue Young. I am a Software Engineer who is blowing the dust off her coding skills. This has been a blast and I expect it will only get more fun. 
 
 Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young). 
 
