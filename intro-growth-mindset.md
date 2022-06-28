@@ -1,4 +1,4 @@
-# Sue's Introducion and Growth Mindset Notes
+# Growth Mindset Notes
 
 ## Introduction
 
