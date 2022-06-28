@@ -4,12 +4,12 @@
 
 There are lots of different text editors out there. The most important thing is find the right one for you. If it increases your productivity, then great!
 
-You are trying to find an editor that helpsyou write code fast with less bugs. At the very least it is good to have:
+You are trying to find an editor that helps you write code fast with less bugs. At the very least it is good to have:
 
 1. Code Completion (don't forget Emmet)
-2. Syntax Highlighing
+2. Syntax Highlighting
 3. Themes that Reduce Eye-Strain
-4. Adding Extentions
+4. Adding Extensions
 
 
 ## The Command Line 
