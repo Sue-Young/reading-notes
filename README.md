@@ -5,12 +5,10 @@
 
 ## Current Topics Covered
 
-- Introduction and Growth Mindset
-- Growth Mindset
-- Markdown
+- [Introduction and Growth Mindset](intro-growth-mindset.md)
+- [Markdown](markdown.md)
 - [Coder's Computer](coders-computer.md)
 - [Git and GitHub Pages](Git-Notes.md)
-- Useful Links
 
 ## Introduction
 
