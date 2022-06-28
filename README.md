@@ -1,11 +1,11 @@
-# Sue Young's Reading Notes 
+# Welcome to My Reading Notes 
 
 <!-- One gigantic @ss pic that may or may not be legal? But hey, look at this Markdown comment --> 
 ![Cool Pic](https://techagainsttrafficking.org/wp-content/uploads/2019/01/Digital-Earth-1200x675.jpg)
 
 ## Current Topics Covered
 
-- Introduction
+- Introduction and Growth Mindset
 - Growth Mindset
 - Markdown
 - Git Hub Pages
