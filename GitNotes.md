@@ -15,7 +15,6 @@ Here is a summerized list of commands to enable a sub-setted basic workflow.
 // most useful of all git commands, learn it, love it. 
 $ git status
 ```
-:heart:
 
 ```
 // cloning a repo
