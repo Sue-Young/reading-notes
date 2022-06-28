@@ -8,7 +8,8 @@
 - Introduction and Growth Mindset
 - Growth Mindset
 - Markdown
-- Git Hub Pages
+- [Coder's Computer](coders-computer.md)
+- [Git and GitHub Pages](Git-Notes.md)
 - Useful Links
 
 ## Introduction
