@@ -1,4 +1,4 @@
-# Everything You Wanted To Know About Git
+# Everything You Need To Know About Git
 ![GitIcon](git-icon.png)
 
 You won't find it on this page.
