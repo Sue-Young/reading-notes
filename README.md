@@ -16,7 +16,7 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 - [Coder's Computer](coders-computer.md)
 - [Git and GitHub Pages](Git-Notes.md)
 - [Wireframing, Semantics, HTML](Webpages-HTML.md)
-
+- [CSS](css-notes.md)
 
 ## Useful Links for Sue
 
