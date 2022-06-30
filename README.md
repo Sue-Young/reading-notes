@@ -1,13 +1,13 @@
-# Reading Notes 
+# Reading Notes
 
-<!-- One gigantic @ss pic that may or may not be legal? But hey, look at this Markdown comment --> 
+<!-- One gigantic @ss pic that may or may not be legal? But hey, look at this Markdown comment -->
 ![Cool Pic](https://techagainsttrafficking.org/wp-content/uploads/2019/01/Digital-Earth-1200x675.jpg)
 
 ## Introduction
 
-Welcome to my Reading Notes page! My name is Sue Young. I am a Software Engineer who is blowing the dust off her coding skills. This has been a blast and I expect it will only get more fun. 
+Welcome to my Reading Notes page! My name is Sue Young. I am a Software Engineer who is blowing the dust off her coding skills. This has been a blast and I expect it will only get more fun.
 
-Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young). 
+Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 - [CSS](css-notes.md)
 - [JavaScript](JS-notes.md)
 - [Programming with JavaScript](JS-Programming.md)
-- [Expresions, Operators, Loops](expressions-operators-loops.ms)
+- [Expresions, Operators, Loops](expressions-operators-loops.md)
 
 ## Useful Links for Sue
 
@@ -30,7 +30,3 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 [Emoji Markdown Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
 
 [Repository Settings](https://github.com/Sue-Young/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-
-
-
