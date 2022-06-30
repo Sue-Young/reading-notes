@@ -35,8 +35,6 @@ document.getElementById("demo").innerHTML = myFunction(4, 3);
 
 ## Operators
 
-<a name="abcd"></a>
-
 In JavaScript, an operator is a symbol used to perform operations on operands (values and variables). 
 
 JavaScript Operator Types
