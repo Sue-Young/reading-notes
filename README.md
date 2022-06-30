@@ -19,6 +19,7 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 - [CSS](css-notes.md)
 - [JavaScript](JS-notes.md)
 - [Programming with JavaScript](JS-Programming.md)
+- [Expresions, Operators, Loops](expressions-operators-loops.ms)
 
 ## Useful Links for Sue
 
