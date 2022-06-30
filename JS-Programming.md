@@ -1,8 +1,8 @@
 # Programming with JavaScript
 
-[Control Flow](#what-is-control-flow)
-[Functions](#functions)
-[Operators](#operators)
+[Control Flow](#what-is-control-flow)  
+[Functions](#functions)  
+[Operators](#operators)  
 
 ## What is Control Flow?
 
