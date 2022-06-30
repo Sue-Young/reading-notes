@@ -1,4 +1,4 @@
-# Control Flow Examples
+# Common Javascript Operators
 
 [Comparison Operators](#comparison-operators)  
 [Assignment Operators](#assignment-operators)  
@@ -18,7 +18,7 @@ An assignment operator assigns a value to its left operand based on the value of
 
 There are also compound assignment operators that are shorthand for the operations listed in the following table:
 
-![Comparison Operator Table](Comparison.png)
+![Comparison Operator Table](Assignment.png)
 
 ## Looping
 
