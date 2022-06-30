@@ -18,6 +18,7 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 - [Wireframing, Semantics, HTML](Webpages-HTML.md)
 - [CSS](css-notes.md)
 - [JavaScript](JS-notes.md)
+- [Programming with JavaScript](JS-Programming.md)
 
 ## Useful Links for Sue
 
