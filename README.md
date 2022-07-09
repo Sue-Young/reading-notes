@@ -5,11 +5,29 @@
 
 ## Introduction
 
-Welcome to my Reading Notes page! My name is Sue Young. I am a Software Engineer who is blowing the dust off her coding skills. This has been a blast and I expect it will only get more fun.
+Welcome to my Reading Notes page! My name is Sue Young. I am a Software Engineer who is blowing the dust off her coding skills. This site contains my notes for Courses 102 & 201.
 
 Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 
-## Table of Contents
+## Code 201 Reading Notes
+
+- [Class 01](class-01.md)
+- [Class 02](class-01.md)
+- [Class 03](class-01.md)
+- [Class 04](class-01.md)
+- [Class 05](class-01.md)
+- [Class 06](class-01.md)
+- [Class 07](class-01.md)
+- [Class 08](class-01.md)
+- [Class 09](class-01.md)
+- [Class 10](class-01.md)
+- [Class 11](class-01.md)
+- [Class 12](class-01.md)
+- [Class 13](class-01.md)
+- [Class 14a](class-01.md)
+- [Class 14b](class-01.md)
+
+## Code 102 Reading Notes
 
 - [Growth Mindset](intro-growth-mindset.md)
 - [Markdown](markdown.md)
@@ -23,7 +41,7 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 
 ## Useful Links for Sue
 
-[GitHub Editor for this Page](https://github.com/Sue-Young/reading-notes/edit/gh-pages/index.md)
+[GitHub Editor for this Page](https://github.com/Sue-Young/reading-notes/edit/gh-pages/README.md)
 
 [GitHub CLI](https://cli.github.com/)
 
