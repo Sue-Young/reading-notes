@@ -16,21 +16,21 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 
 ## Code 201 Reading Notes
 
-- [Class 01](class-01.md)
-- [Class 02](class-01.md)
-- [Class 03](class-01.md)
-- [Class 04](class-01.md)
-- [Class 05](class-01.md)
-- [Class 06](class-01.md)
-- [Class 07](class-01.md)
-- [Class 08](class-01.md)
-- [Class 09](class-01.md)
-- [Class 10](class-01.md)
-- [Class 11](class-01.md)
-- [Class 12](class-01.md)
-- [Class 13](class-01.md)
-- [Class 14a](class-01.md)
-- [Class 14b](class-01.md)
+1.[Class 01](class-01.md)
+2.[Class 02](class-01.md)
+3.[Class 03](class-01.md)
+4.[Class 04](class-01.md)
+5.[Class 05](class-01.md)
+6.[Class 06](class-01.md)
+7.[Class 07](class-01.md)
+8.[Class 08](class-01.md)
+9.[Class 09](class-01.md)
+10.[Class 10](class-01.md)
+11.[Class 11](class-01.md)
+12.[Class 12](class-01.md)
+13.[Class 13](class-01.md)
+14.[Class 14a](class-01.md)
+15.[Class 14b](class-01.md)
 
 ## Code 102 Reading Notes
 
@@ -53,3 +53,5 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 [Emoji Markdown Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
 
 [Repository Settings](https://github.com/Sue-Young/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+Thanks for reading! :+1:
