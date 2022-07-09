@@ -5,7 +5,12 @@
 
 ## Introduction
 
-Welcome to my Reading Notes page! My name is Sue Young. I am a Software Engineer who is blowing the dust off her coding skills. This site contains my notes for Courses 102 & 201.
+Welcome to my Reading Notes page! My name is Sue Young. I am a Software Engineer who is blowing the dust off her coding skills. This site contains my notes for Courses:
+
+[Course 102](https://github.com/Sue-Young/reading-notes#code-102-reading-notes)
+[Course 201](https://github.com/Sue-Young/reading-notes#code-201-reading-notes)
+Course 301
+Course 401
 
 Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 
