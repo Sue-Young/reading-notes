@@ -151,3 +151,7 @@ function createParagraph() {
 ```
 <button onclick="createParagraph()">Click me!</button>
 ```
+## Things I want to know more about
+I am totally fried after doing this reading assignment. The only question I have is how do I do this more efficently! Thank goodness the poem came first.  I'm not sure I could have produced much if it came at the end: 
+> This HTTProtocol
+> is a really, really long haul.
