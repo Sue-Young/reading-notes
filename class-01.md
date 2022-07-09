@@ -4,9 +4,9 @@
 
 ## HTTP How I Love Thee
 
-> It all began with the DNS,\ngiving you my IP address.\n
-HTTP came riding on TCP/IP,<br>asking if my website could come to thee.<br>
-I responded with "200 OK",<br>and sent my data packets right away.<br>
+> It all began with the DNS<br>giving you my IP address.<br>
+HTTP on TCP/IP<br>asked if my site could come to thee.<br>
+I responded with "200 OK"<br>and sent my data packets right away.<br>
 Your browser quickly assembled me<br>and our client/server love came to be.<br>
 
 ### How HTML, CSS and JS files are Parsed
@@ -67,9 +67,6 @@ The `<a>` tag defines a hyperlink. The href attribute specifies the URL of the p
 - **The Content:** The content of the element.
 - **The Closing Tag:** Same as the opening tagbut also includes a forward slash. It marks where the element ends.
 
-```<p> This is a paragraph tag </p>
-```
-
 ### Article vs. Section
 
 They are both semantic tags.
@@ -79,15 +76,15 @@ The `<section>` tag is used to split a page into sections like Introduction, Con
 
 ### Elements of a Typical Website
 
-header: `<header>`.
-navigation bar: `<nav>`.
-main content: `<main>`, with various content subsections represented by `<article>`,`<section>`, and `<div>` elements.
-sidebar: `<aside>`; often placed inside `<main>`.
-footer: `<footer>`.
+- header: `<header>`.
+- navigation bar: `<nav>`.
+- main content: `<main>`, with various content subsections represented by `<article>`,`<section>`, and `<div>` elements.
+- sidebar: `<aside>`; often placed inside `<main>`.
+- footer: `<footer>`.
 
 ### Metadata Influencing SEO
 
-From [Cognitiveseo[](https://cognitiveseo.com/blog/19066/meta-description-affects-seo/#:~:text=In%20short%2C%20Google%20says%20that,backlinks%20tend%20to%20matter%20less.)
+From [Cognitiveseo](https://cognitiveseo.com/blog/19066/meta-description-affects-seo/#:~:text=In%20short%2C%20Google%20says%20that,backlinks%20tend%20to%20matter%20less.)
 > In short, Google says that meta descriptions do not directly impact search engine rankings. However, these descriptions can indirectly impact SEO through click through rates. This is very important when you're fighting between 1st, 2nd and 3rd place. There, things like technical SEO and backlinks tend to matter less.
 
 ### How is `<meta>` Used
@@ -104,7 +101,7 @@ Here are a few questions you should answer before anything else:
 - How will a website help me reach my goals?
 - What needs to be done, and in what order, to reach my goals?
 
-This is called project ideation and is a necessary first step to reach your goal, whether you are a beginner or an experienced developer.
+This is called **project ideation** and is a necessary first step to reach your goal, whether you are a beginner or an experienced developer.
 
 ### The Most Important Question
 
@@ -182,5 +179,5 @@ function createParagraph() {
 ## Things I want to know more about
 
 I am totally fried after doing this reading assignment. The only question I have is how do I do this more efficently! Thank goodness the poem came first.  I'm not sure I could have produced much if it came at the end:
-> This HTTProtocol
+> This HTTProtocol<br>
 > is a really, really long haul.
