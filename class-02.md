@@ -1,5 +1,7 @@
 # Class 02 Reading Notes
 
+This content is important as it furthers our understanding of HTML, CSS and JavaScript. 
+
 ## Introduction to HTML
 
 ### Semantic Elements in HTML
@@ -83,3 +85,8 @@ An `else if` statement will execute when the first `if` is false but the second 
 
 Logical `&&` and. Both conditions must to true to evaluate to true.
 Logical `||` or. Only one condition must be true to evaluate to true.
+
+## Things I want to know more about
+
+CSS inheritance and overriding.
+Using the Google Inspect tools.
