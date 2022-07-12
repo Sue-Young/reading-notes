@@ -56,7 +56,7 @@ h2
 
 A String is defined by single quotes.
 
-```
+```JavaScript
 let myVariable = 'Code Fellows';
 ```
 
