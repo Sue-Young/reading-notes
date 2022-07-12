@@ -1,7 +1,7 @@
 # Class 01 Reading Notes
 
 > This section of reading is important because it describes the basics of how the web works, web design, web process, HTML, Javascript and building web sites.
-
+  
 ## HTTP How I Love Thee
 
 > It all began with the DNS<br>giving you my IP address.<br>
