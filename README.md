@@ -20,7 +20,7 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 2. [Class 02](class-02.md)
 3. [Class 03](class-03.md)
 4. [Class 04](class-04.md)
-5. [Class 05](class-01.md)
+5. [Class 05](class-05.md)
 6. [Class 06](class-01.md)
 7. [Class 07](class-01.md)
 8. [Class 08](class-01.md)
@@ -52,6 +52,6 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 
 [Emoji Markdown Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#symbols)
 
-[Repository Settings](https://github.com/Sue-Young/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Paletton](https://www.paletton.com/)
 
 Thanks for reading! :+1:
