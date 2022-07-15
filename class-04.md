@@ -1,6 +1,6 @@
 # Class 04 Reading Notes
 
-This content is important because we are learning about HTML links, JavaScript Functions and CSS Layout. 
+This content is important because we are learning about HTML links, JavaScript Functions and CSS Layout.
 
 ## HTML Links
 
@@ -16,17 +16,38 @@ From <https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/C
 
 ## CCS Layout
 
-Normal flow is the way pages lay theselves out if one has not changed their layout specificially. 
+Normal flow is the way pages lay theselves out if one has not changed their layout specificially.
 
-1. Clearer code and therefore easier to maintain
-2. Help your site be accessible
-3. Improve SEO
+Static positioning is the default for every HTML element.
 
-### Uses for `<sup>` and `<sub>` Elements
+### Block-level vs. Inline Elements
 
-```JavaScript
-let myVariable = 'Code Fellows';
-```
+Block elements are a kind of blocks where there are many elements in a line itself. While inline elements take up the space of an entire line and there will be only one line within the space width. Inline elements do not respect the top and bottom margins but only the left and right and also consider the padding.
+
+### Absolute Positioning
+
+An absolutely positioned element doesn't exists in the normal document flow.  It is in its own layer which is good for popup boxs, control menus, etc. Also `top`,`bottom`,`left`, `right` are not based off its relative position in the document flow but instead they specify the distance the element should be from the containing element's sides.
+
+### Fixed Positioning vs. Absolute Positionin
+
+The position and dimensions of an element with `position:absolute` are relative to its containing block. The position and dimensions of an element with `position:fixed` are always relative to the initial containing block. This is normally browser window.
+
+## JavaScript
+
+### Function: Declaration and Invocation
+
+A function declaration is where you describe a function: name, list parameters, code block, return, etc.
+A function invocation is where you call a function by supplying argument and receiving any return values of interest.
+Parameters are described in a function declaration.
+Arguments are values passed into a function during invocation.
+
+## Miscellaneous
+
+### Two benefits of Paired Programming
+
+1. Greater efficiency - studies have found that while paired programming may take a little longer when writing the code, the benefits include higher quality code with less defects saving time overall. With someone looking over your shoulder they can double check as you type for bugs. 
+
+2. Engaged collaboration - keeps the coders attention on track. Working with someone keeps both parties paying attention to the development effort. 
 
 ## Things I want to know more about
 
