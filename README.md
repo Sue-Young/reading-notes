@@ -21,7 +21,7 @@ Learn more about me at my [GitHub Profile Page](https://github.com/Sue-Young).
 3. [Class 03](class-03.md)
 4. [Class 04](class-04.md)
 5. [Class 05](class-05.md)
-6. [Class 06](class-01.md)
+6. [Class 06](class-06.md)
 7. [Class 07](class-01.md)
 8. [Class 08](class-01.md)
 9. [Class 09](class-01.md)
