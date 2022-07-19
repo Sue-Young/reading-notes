@@ -29,50 +29,60 @@ console.log(corgiFail);
 
 ## HTML Table Basics
 
-### Why should tables not be used for page layouts? (see https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
+### Why should tables not be used for page layouts? (from https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics)
 
-> In short, using tables for layout rather than CSS layout techniques is a bad idea. The main reasons are as follows:
+One shouldn't use tables for layout. Layout tables reduce accessibility. The markup structures are more complex that the screen readers are reading for the visually impaired. The code is also harder to write and maintain. 
 
-Layout tables reduce accessibility for visually impaired users: Screenreaders, used by blind people, interpret the tags that exist in an HTML page and read out the contents to the user. Because tables are not the right tool for layout, and the markup is more complex than with CSS layout techniques, the screenreaders' output will be confusing to their users.
-Tables produce tag soup: As mentioned above, table layouts generally involve more complex markup structures than proper layout techniques. This can result in the code being harder to write, maintain, and debug.
-Tables are not automatically responsive: When you use proper layout containers (such as `<header>, <section>, <article>, or <div>`), their width defaults to 100% of their parent element. Tables on the other hand are sized according to their content by default, so extra measures are needed to get table layout styling to effectively work across a variety of devices.
+In short, using tables for layout rather than CSS layout techniques is a bad idea. The main reasons are as follows:
 
 List and describe 3 different semantic HTML elements used in an HTML `<table>`.
-from: https://developer.mozilla.org/en-US/docs/Learn/HTML/Tables/Basics
 
-> In short, using tables for layout rather than CSS layout techniques is a bad idea. The main reasons are as follows:
-> Layout tables reduce accessibility for visually impaired users: Screenreaders, used by blind people, interpret the tags that exist in an HTML page and read out the contents to the user. Because tables are not the right tool for layout, and the markup is more complex than with CSS layout techniques, the screenreaders' output will be confusing to their users.
-Tables produce tag soup: As mentioned above, table layouts generally involve more complex markup structures than proper layout techniques. This can result in the code being harder to write, maintain, and debug.
-Tables are not automatically responsive: When you use proper layout containers (such as <header>, <section>, <article>, or <div>), their width defaults to 100% of their parent element. Tables on the other hand are sized according to their content by default, so extra measures are needed to get table layout styling to effectively work across a variety of devices.
-
+```HTML
+<td> //table data
+<table> //table element
+<tr> //table row
+```
 
 ## Introducing Constructors
 
 ### What is a constructor and what are some advantages to using it?
 
-How does the term this differ when used in an object literal versus when used in a constructor?
-
-Construtors define the set of methods and the properties it can have — and then create as many objects as we like, just updating the values for the properties that are different.
+A constructor is a method that creates an object. It sets up initial values. 
 
 The first version of this is just a function:
 
 ```JavaScript
-function createPerson(name) {
-  const obj = {};
-  obj.name = name;
-  obj.introduceSelf = function() {
-    console.log(`Hi! I'm ${this.name}.`);
-  }
-  return obj;
+function Person(first, last, age ) {
+  this.firstName = first;
+  this.lastName = last;
+  this.age = age;
 }
 ```
 
 ### Object Prototypes Using A Constructor
 
-Explain prototypes and inheritance via an analogy from your previous work experience.
-NOTE: This is a very common front end developer interview question
-Bookmark and Review
+All objects in JavaScript inherit from a `prototype`. They can be chained together. When searching for a member (property or method) first we look at the object we created. If it is not there, then we walk up the chain of prototypes to find it.  Ultimately we reach the end of the object inheritance and get `undefined.`
+
+To find your object's prototype
+
+```JavaScript
+Object.getPrototypeOf(myObject);
+```
+
+This object has a Date Prototype
+
+```
+const myDate = new Date();
+let object = myDate;
+
+do {
+  object = Object.getPrototypeOf(object);
+  console.log(object);
+} while (object);
+```
+
+Shadowing is when an object in the chain overrides the member(s) in its parent class. 
 
 ## Things I want to know more about
 
-Defining a clean DOM is not easy. I want to understand best practices in more depth.  
+Defining a clean DOM is not easy. I want to understand best practices in more depth. ng.
