@@ -1,24 +1,23 @@
-# Class 0X Reading Notes
+# Class 08 Reading Notes
 
-This content is important because... 
+Better ways to do layout with CSS Flexbox.
 
-## header 2
+## Flexbox
 
-### header 3
+One dimentional content means you are layout items in one dimension (row or column with or without wrap).
 
-The most important reasons to use semantic markup are:
+The main axis the line along with the content with be rendered: horizontal or vertical set by the `flex-direction`. The cross axis runs in the other direction to the main axis.  So if the `flex-direction` is `row` then the cross axis is column.
 
-1. Clearer code and therefore easier to maintain
-2. Help your site be accessible
-3. Improve SEO
+Because flexbox only changes the view but not the underlying model, this impacts accessibility. Screen readers will speak the model.
 
-### Uses for `<sup>` and `<sub>` Elements
+### Why Flexbox?
 
-```JavaScript
-let myVariable = 'Code Fellows';
-```
+These design are hard to do with `float` and positioning:
+
+1. centering code vertically in its parent
+2. having children take up same space
+3. having all columns in a layout take up the same height even with different content
 
 ## Things I want to know more about
 
-CSS inheritance and overriding.
-Using the Google Inspect tools.
+Using a flexbox in my cookie's store page. 
